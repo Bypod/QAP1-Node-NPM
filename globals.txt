@@ -1,0 +1,5 @@
+The objects that are 'globals' are those which are objects that are available in all modules and built into the Javascript.
+Unlike most modules these dont need any importing but are already in JS.
+These modules are very helpful and useful in even very simple code as they are base objects that we may use without even noticing.
+Everything from just simply logging innformation to the terminal to being able to get informmation of paths and files from the computer even being able to set times for when each function will run.
+They deal with the most simple lines of code to the most complicated and a lot of base functions for even importing other modules are all part of this set of globals.

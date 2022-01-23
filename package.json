@@ -1,0 +1,16 @@
+{
+  "name": "qap1",
+  "version": "1.0.0",
+  "description": "Qap 1 files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Byrne",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "socket.io": "^4.4.1",
+    "validator": "^13.7.0"
+  }
+}

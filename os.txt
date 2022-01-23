@@ -1,0 +1,7 @@
+OS
+Os is to me i think a really neat set of objects as it gets into all the informationnabout the actual computer itself aand even its specs.
+With this module we can find ouyt a lof information about the computer includinf the specs of the processor and even tracking the uptime of the system being used.
+This information may at first as it did to me as pointless commands as with windows you can just go to the about this pc in setting but its not that simple.
+When it comes to coding its not just being run on desktops and laptops thus kind of code is being run on servers and computers using linux and even being run remotely so the only way to get this
+info may be using this code so onyl scratching the surface with the needs of this info. Along with that this may be used even with being able to find problems in the computer
+with hardware as you can even see the speed of the cores in the cpu to know if everyting id running as it should. A very simple yet nessecary and useful module.

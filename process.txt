@@ -1,0 +1,8 @@
+Process
+As the name of this module suggests its all about the order of how things run. The ortder as you mostly learn the hard way matters so much in coding and being able to have specific commands that
+run at certain times no matter what can be so helpful. With the process module you can set something to run dirrectly on the exit of a program running this is huge as it could be used for something
+as simple as a good bye message to ending tasks taht shouldnt be running when the code isn't to save on use of memory. As well included in this module is information about the paths fo fiules such
+as being able to simply acess the directory being worked in with ease. And all this may seem pretty straiught forward when using a pc meant for everyday use but when dealing wth servers and somputers
+that dont have user interface at the forfront being able to write one line of code taht outputs such key information can be so useful. When it comes to in dealing in some react with loclastorage as i 
+found out thge hard way when having to save things in loclastorage order is everything so you dont over write or save too much information or nothing at all and being able to make something happen as
+the very last thing before the porogram closes would be huge and super useful.

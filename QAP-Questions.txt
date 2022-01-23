@@ -1,0 +1,5 @@
+1. This project took me around 6 hours or so most of which was for the different core global objects and then about an hour for the extra npm packages
+2. Youtube, github, leany labs, npmjs, zetcode and notes from class
+3. No I did not
+4. No I did not
+5. The questions werent too difficult a nice challenge to get us in the right coding mindset, once I figured out whaht I was looking for. But I think the main thing was knowing what recourses to look at to find information that wouldve cut down on time

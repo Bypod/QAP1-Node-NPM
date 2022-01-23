@@ -1,0 +1,6 @@
+URL
+the Url module is something that can be useful in many areas especialy fetching data from links and websites. Being able to use built in functions lile '.hash' can be
+great when having to strip down a link to find a certain bit of information. Efficiancy is key in coding and being able to just run functions that auto change and strip parts of links can
+reduce down time spent extremely in if you had to collect parts of links after hash for example being able to write code to just go and do it is so much easier than having to go manually 
+and copy and paste somewhere all those parts of code. This too could have lots of application when coding with react and dealing specifically with links and urls and having to strip down parts
+of links to go betweeen weboages and even in naming webpages. Definetly useful for apps that may build websites as well when creating new pages and adding to already created urls.
