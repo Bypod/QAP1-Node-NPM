@@ -12,5 +12,13 @@
     "dayjs": "^1.10.7",
     "socket.io": "^4.4.1",
     "validator": "^13.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bypod/QAP1-Node-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bypod/QAP1-Node-NPM/issues"
+  },
+  "homepage": "https://github.com/Bypod/QAP1-Node-NPM#readme"
 }

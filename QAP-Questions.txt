@@ -1,3 +1,4 @@
+!!!!These Files are all uploaded to GitHub as well at this link: https://github.com/Bypod/QAP1-Node-NPM  !!!!
 1. This project took me around 6 hours or so most of which was for the different core global objects and then about an hour for the extra npm packages
 2. Youtube, github, leany labs, npmjs, zetcode and notes from class
 3. No I did not
